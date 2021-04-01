@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img alt="Django & python logo" src="./assets/django.png" width="30%" height="30%"/>
+    <img alt="Django & python logo" src="./assets/django.png"/>
   </a>
   <p align="center">Example of a website using django</p>
 </p>
